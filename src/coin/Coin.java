@@ -1,6 +1,6 @@
 package coin;
 
-import java.util.Random;
+//import java.util.Random; Commented out since not used
 
 public class Coin {
 //	Note that in the Coin class, the constants HEADS and TAILS and the 
@@ -12,7 +12,7 @@ public class Coin {
 	
 	
 	private final int HEADS = 0;
-	private final int TAILS = 1;
+//	private final int TAILS = 1; Commented out since not used
 	private int face;
 
 	// -----------------------------------------------------------------
